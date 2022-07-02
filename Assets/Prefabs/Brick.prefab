@@ -110,3 +110,4 @@ MonoBehaviour:
   points: 100
   rotator: {x: 50, y: 0, z: 0}
   rotationSpeed: 0.85
+  crackedMaterial: {fileID: 2100000, guid: 51d8d2b7b5fb64240a3308a2af05dcfa, type: 2}
